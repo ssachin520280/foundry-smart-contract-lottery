@@ -1,0 +1,47 @@
+# Layout
+## Pragma statements
+## Import statements
+## Interfaces
+## Libraries
+## Contracts
+
+# Contract
+## Type declaration
+## State variables
+## Events
+## Modifiers
+## Functions
+
+# Function
+## constructor
+## receive function (if exists)
+## fallback function (if exists)
+## external
+## public
+## internal
+## private
+### Note: Within the grouping place the view and pure functions last
+
+# Function Pattern
+## Checks
+## Effects
+## Interactions
+
+
+# Tests!
+## Write deploy scripts
+## Write tests
+    1. Local chain
+    2. Forked testnet
+    3. Forked mainnet
+## Testing Stages:
+    ### unit
+    ### integrations
+    ### forked
+    ### staging <- run tests on a mainnet or testnet
+## Advanced tests:
+    ### fuzzing
+    ### stateful fuzz
+    ### stateless fuzz
+    ### formal verifification
+
